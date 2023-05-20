@@ -2,7 +2,6 @@
   "name": "list-project",
   "private": true,
   "version": "0.0.0",
-  "home": "https://NadezhdaVy.github.io/list_ts_gh" ,
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -10,7 +9,6 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "gh-pages": "^5.0.0",
     "typescript": "^5.0.2",
     "vite": "^4.3.2"
   }
